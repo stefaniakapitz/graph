@@ -1,0 +1,7 @@
+Änderungen
+
+Klasse Analyzer: 	addAlgorithm hinzugefügt
+					isObject entfernt
+Klasse Filter 		komplett geändert
+neues Enum conjunction eingeführt
+Algorithmen verändert 

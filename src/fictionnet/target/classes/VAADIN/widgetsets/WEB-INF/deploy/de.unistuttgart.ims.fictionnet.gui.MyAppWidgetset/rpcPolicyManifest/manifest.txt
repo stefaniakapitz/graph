@@ -1,0 +1,2 @@
+# Module de.unistuttgart.ims.fictionnet.gui.MyAppWidgetset
+# RPC service class, partial path of RPC policy file

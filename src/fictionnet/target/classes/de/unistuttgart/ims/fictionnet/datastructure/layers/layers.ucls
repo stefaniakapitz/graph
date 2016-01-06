@@ -1,0 +1,461 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class-diagram version="1.1.6" icons="true" always-add-relationships="false" generalizations="true" realizations="true" 
+  associations="true" dependencies="false" nesting-relationships="true">  
+  <class id="1" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.Layer" project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/Layer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="153" width="217" x="1266" y="-112"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="2" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.TalksAboutLayer" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/TalksAboutLayer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="666" y="236"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="3" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.content.InteractionType" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/content/InteractionType.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1999" y="1027"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="4" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.TypeOfTextLayer" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/TypeOfTextLayer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="914" y="235"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="5" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.content.Annotation" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/content/Annotation.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1408" y="616"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="6" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.TokenLayer" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/TokenLayer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="421" y="224"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="7" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.content.TextType" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/content/TextType.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="888" y="1078"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="8" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.InvalidRequestException" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/InvalidRequestException.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="178" y="405"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="9" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.ActLayer" project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/ActLayer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1151" y="252"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="10" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.content.Mention" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/content/Mention.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1675" y="818"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="11" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.SceneLayer" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/SceneLayer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1388" y="247"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="12" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.content.TalksAboutInstance" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/content/TalksAboutInstance.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="623" y="748"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="13" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.content.Token" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/content/Token.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="600" y="516"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="14" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.InteractionLayer" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/InteractionLayer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1870" y="228"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="15" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.SentenceLayer" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/SentenceLayer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2205" y="163"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <enumeration id="16" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.content.EventType" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/content/EventType.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2012" y="613"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </enumeration>  
+  <class id="17" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.content.SectionWithType" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/content/SectionWithType.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="883" y="855"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="18" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.EventLayer" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/EventLayer.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1632" y="240"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="19" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.content.Scene" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/content/Scene.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1421" y="879"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="20" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.content.Act" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/content/Act.java" binary="false" 
+    corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1152" y="859"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="21" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.PresenceLayer" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/PresenceLayer.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="180" y="232"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="22" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.content.Interaction" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/content/Interaction.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2004" y="867"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="23" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.content.Presence" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/content/Presence.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="1680" y="921"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="24" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.content.Event" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/content/Event.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="153" width="217" x="1681" y="382"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <class id="25" language="java" name="de.unistuttgart.ims.fictionnet.datastructure.layers.content.Sentence" 
+    project="fictionnet" 
+    file="/fictionnet/src/main/java/de/unistuttgart/ims/fictionnet/datastructure/layers/content/Sentence.java" 
+    binary="false" corner="BOTTOM_RIGHT">    
+    <position height="-1" width="-1" x="2011" y="706"/>    
+    <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" accessors="true" 
+      visibility="true">      
+      <attributes public="true" package="true" protected="true" private="true" static="true"/>      
+      <operations public="true" package="true" protected="true" private="true" static="true"/>    
+    </display>  
+  </class>  
+  <association id="26">    
+    <end type="SOURCE" refId="18" navigable="false">      
+      <attribute id="27" name="events"/>      
+      <multiplicity id="28" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="24" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="29">    
+    <end type="SOURCE" refId="24"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="30">    
+    <end type="SOURCE" refId="11"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="31">    
+    <bendpoint x="2302" y="382"/>    
+    <bendpoint x="2302" y="575"/>    
+    <end type="SOURCE" refId="14" navigable="false">      
+      <attribute id="32" name="interactions"/>      
+      <multiplicity id="33" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="22" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="34">    
+    <bendpoint x="734" y="382"/>    
+    <bendpoint x="734" y="575"/>    
+    <end type="SOURCE" refId="2" navigable="false">      
+      <attribute id="35" name="occurences"/>      
+      <multiplicity id="36" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="12" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="37">    
+    <end type="SOURCE" refId="21"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="38">    
+    <bendpoint x="477" y="382"/>    
+    <bendpoint x="477" y="575"/>    
+    <end type="SOURCE" refId="6" navigable="false">      
+      <attribute id="39" name="tokens"/>      
+      <multiplicity id="40" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="13" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="41">    
+    <end type="SOURCE" refId="14"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="42">    
+    <end type="SOURCE" refId="19"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="43">    
+    <end type="SOURCE" refId="18"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="44">    
+    <end type="SOURCE" refId="23"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="45">    
+    <end type="SOURCE" refId="17"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="46">    
+    <end type="SOURCE" refId="6"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="47">    
+    <bendpoint x="2324" y="352"/>    
+    <bendpoint x="2331" y="617"/>    
+    <end type="SOURCE" refId="15" navigable="false">      
+      <attribute id="48" name="sentences"/>      
+      <multiplicity id="49" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="25" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="50">    
+    <end type="SOURCE" refId="22" navigable="false">      
+      <attribute id="51" name="interactionType"/>      
+      <multiplicity id="52" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="3" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="53">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="54" name="occurences"/>      
+      <multiplicity id="55" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="5" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="56">    
+    <end type="SOURCE" refId="25"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="57">    
+    <end type="SOURCE" refId="4"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="58">    
+    <end type="SOURCE" refId="20"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="59">    
+    <end type="SOURCE" refId="10"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <association id="60">    
+    <bendpoint x="1531" y="382"/>    
+    <bendpoint x="1531" y="575"/>    
+    <end type="SOURCE" refId="11" navigable="false">      
+      <attribute id="61" name="scenes"/>      
+      <multiplicity id="62" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="19" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="63">    
+    <end type="SOURCE" refId="9"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="64">    
+    <bendpoint x="1014" y="382"/>    
+    <bendpoint x="1014" y="575"/>    
+    <end type="SOURCE" refId="4" navigable="false">      
+      <attribute id="65" name="sections"/>      
+      <multiplicity id="66" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="17" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <association id="67">    
+    <end type="SOURCE" refId="24" navigable="false">      
+      <attribute id="68" name="eventType"/>      
+      <multiplicity id="69" minimum="0" maximum="1"/>    
+    </end>    
+    <end type="TARGET" refId="16" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="70">    
+    <end type="SOURCE" refId="15"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <generalization id="71">    
+    <end type="SOURCE" refId="22"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="72">    
+    <end type="SOURCE" refId="2"/>    
+    <end type="TARGET" refId="1"/>  
+  </generalization>  
+  <association id="73">    
+    <bendpoint x="1275" y="382"/>    
+    <bendpoint x="1275" y="575"/>    
+    <end type="SOURCE" refId="9" navigable="false">      
+      <attribute id="74" name="acts"/>      
+      <multiplicity id="75" minimum="0" maximum="2147483647"/>    
+    </end>    
+    <end type="TARGET" refId="20" navigable="true"/>    
+    <display labels="true" multiplicity="true"/>  
+  </association>  
+  <generalization id="76">    
+    <end type="SOURCE" refId="12"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <generalization id="77">    
+    <end type="SOURCE" refId="13"/>    
+    <end type="TARGET" refId="5"/>  
+  </generalization>  
+  <classifier-display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
+    accessors="true" visibility="true">    
+    <attributes public="true" package="true" protected="true" private="true" static="true"/>    
+    <operations public="true" package="true" protected="true" private="true" static="true"/>  
+  </classifier-display>  
+  <association-display labels="true" multiplicity="true"/>
+</class-diagram>

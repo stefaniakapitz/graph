@@ -1,0 +1,9 @@
+Class Section rename to SectionWithType
+Class SectionType to TextType
+Class Annotation abstract
+Class Annotation rename to Section
+Class Layer getAnnotationForIndex() rename to getSection()
+Class MentionedLayer rename to MentionLayer
+Class Mention var members rename to mentionedCastMembers
+Class MentionLayer var mentions type from Map<String, Mention> to Map<String, List<Mention>>
+Class Interaction var members rename to otherInvolvedCastMembers
